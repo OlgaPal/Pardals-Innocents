@@ -31,33 +31,33 @@ final al punt x= 499 y= 176.
 
 A la cantonada SW de l’àrea excavada x= 500 y= 175 es va trobar el que semblaria l’inici d’un mur orientat N-S, que intersecta 
 ortogonalment amb l’ anterior. Entre tots dos murs, es a dir, a la cara sud del mur W-E es varen trobar fragments ceràmics, 
-la seva descripció apareix a l’annex amb la designació Afrag.
+la seva descripció apareix a les bases de dades amb la designació A<sub>frag</sub>.
 
 A uns 29-34 cm de profunditat respecte el nivell superficial, i a 15 cm. respecte la base del mur anterior, es varen trobar 
 quatre foses rectangulars, amb lloses de pedra conformant cistes, amb un esquelet complet cada una d’ elles, en connexió anatòmica,
-estès sobre la seva esquena, i en una orientació NW-SW. Les coordenades i dimensions apareixen en el fitxer annex.
+estès sobre la seva esquena, i en una orientació NW-SW. Les coordenades i dimensions apareixen en el fitxers annexos.
 
 Al voltant d’ aquestes cistes es varen trobar altres enterraments, amb foses simples, sense lloses laterals, i que també contenien 
 un esquelet. La fosa A12, tallada pel límit E de la quadricula, està parcialment a l’interior del testimoni i es conserva només 
 parcialment. També està alterada pels murs del nivell superior.
 
-Les dades del aixovar trobat a cada enterrament i els detalls anatòmics apareixen en fitxer annexa. No es va poder determinar el 
+Les dades del aixovar trobat a cada enterrament i els detalls anatòmics apareixen en fitxers annexos. No es va poder determinar el 
 sexe de l’ individu enterrat ni l’edat en una certa quantitat de tombes. Exactament al centre de l’àrea excavada (x= 475 y= 215) 
 es va trobar un monòlit de granit, sense inscripcions, i al seu voltant, a escassament a 9 centímetres de profunditat respecte a 
 la superfície en el moment de l’ excavació restes de foses, la forma de les quals no es va poder determinar per les alteracions 
 post deposicionals (erosions). Es varen trobar ossos humans i animals cremats: tres fragments d’ húmer esquerra d’ un individu 
 infantil, fragments de la part petrosa de dos temporals (un esquerra i un altre dret), també d’ un individu en edat infantil, 
 tres fragments d’occipitals de diferents individus, i abundants fragments de costelles d’individus infantils. Barrejat amb els ossos, 
-fragments de tíbies de xai. Aquesta àrea es coneix com Amonolit i els materials ceràmics (també cremats) trobats apareixen en l’annex. 
-No es va identificar cap resta. Dos dels fragments d’os varen ser datats per 14C: 2550±45, 2450±40.
+fragments de tíbies de xai. Aquesta àrea es coneix com A<sub>monolit</sub> i els materials ceràmics (també cremats) trobats apareixen en l’annex. 
+No es va identificar cap resta. Dos dels fragments d’os varen ser datats per <sup>14</sup>C: 2550±45, 2450±40.
 
 A l’estiu de 2024 es va excavar una petita quadricula de nomes 770 metres quadrats, a 480 metres de la primera. Es va identificar 
 una tomba en cista rectangular (B1) a la cantonada mateix de la quadricula, orientada NW, i dues tombes en foses circulars. 
-Detalls de localització i contingut de les tombes apareixen al fitxer annex.
+Detalls de localització i contingut de les tombes apareixen als fitxers.
 
 Dos anys després es va excavar una gran àrea de 8750 metres quadrats, al sud i sudoest de l’ església, continuant l’ àrea A, 
 excavada al primer any. Varen aparèixer més tombes similars a les de les quadricules A i B, que varen rebre la referència de 
-tombes “D”. Detalls de localització i contingut de les tombes apareixen al fitxer annex. També es va localitzar la base d’un mur 
+tombes “D”. Detalls de localització i contingut de les tombes apareixen als fitxers annexos. També es va localitzar la base d’un mur 
 de pedra, orientat E-W, amb inici a x= 485 y= 157 i final més enllà del punt x= 500, y = 157. La línia x= 500 delimita el costat 
 Est de la quadricula d’ excavació. Sobre aquesta línia N-S, i entre les coordenades y= 157 y= 175, es varen trobar algunes pedres 
 malament alineades, que haurien pogut pertànyer a un mur orientat N-S. El mur E-W va afectar parcialment la tomba D9.
@@ -69,13 +69,13 @@ del sòl natural afectat pel fenomen erosiu. El primer mur es situava entre els 
 amb una profunditat respecte de la superfície del moment d’ excavació de només 12 cm. 40 metres al sud es va trobar un altre mur, 
 paral·lel al primer, entre els punts x= 355 , y= 157, x= 441, y = 156. En aquest cas, la base del mur es situava a 15 cm de la superfície 
 en el moment de l’ excavació. Els dos murs estaven orientats W-E, i al centre es va localitzar una fosa quadrada de 3 metres quadrats de 
-superfície, aproximadament, (Ecentral) amb carbons, evidencies de sediment terme alterat, restes òssies cremades (dos fragments de crani 
-de xai, un fragment d’ escàpula humana (infantil), un altre fragment de pelvis humana (femenina), y cinc cranis complerts de canis 
-familiaris. A l’ oest, i amb una orientació Nord sud, es varen localitzar tres grans forats de pal, de 17 cm de diàmetre. 
-Es varen localitzar a la cota x= 184, entre la y= 170 i la y = 180. Es disposa de tres datacions 14C per aquesta zona, 
+superfície, aproximadament, (E<sub>central </sub>) amb carbons, evidencies de sediment terme alterat, restes òssies cremades (dos fragments de crani 
+de xai, un fragment d’ escàpula humana (infantil), un altre fragment de pelvis humana (femenina), y cinc cranis complerts de _canis 
+familiaris_. A l’ oest, i amb una orientació Nord sud, es varen localitzar tres grans forats de pal, de 17 cm de diàmetre. 
+Es varen localitzar a la cota x= 184, entre la y= 170 i la y = 180. Es disposa de tres datacions <sup>14</sup>C per aquesta zona, 
 2856±35, 2630±35, 2720±30.
 
-Al voltant del foc es varen trobar fragments de ceràmica de diferents tipus (Ecentr). ## Dades al fitxer annex.
+Al voltant del foc es varen trobar fragments de ceràmica de diferents tipus (E<sub>centr</sub>). 
 
 A la mateixa zona central, a una profunditat de a prop de 30 cm de la capa superficial es varen localitzar dues cistes rectangulars 
 (E1 i E2), orientades cap al NW, un altre cista rectangular (E6) orientada al NE, tres foses rectangulars, sense lloses de pedra, 
@@ -95,11 +95,11 @@ Una datació d’ aquests ossos: 4229±30. La tomba H2, conté un esquelet femen
 També restes cremades de fèmur i de os malar, possiblement d’ un individu masculí, disperses per la tomba. La datació disponible 
 es: 4350±30. No hi ha aixovar, però els ossos dels esquelets femenins estan coberts d’ocre vermell. Finalment, entre les dues tombes 
 anteriors, H3 es un enterrament infantil de petites dimensions (0,78x0.58x0.90), amb restes disperses a la fosa de cranis de xai i de 
-canis familiaris.
+_canis familiaris_.
 
 La campanya d’ excavació més recent es va fer a la cantonada NW de l’àrea ocupada pel jaciment arqueològic, a uns 120 metres de la zona A. 
 Anomenada zona “C”, aquí es varen descobrir, a uns 60 cm de profunditat respecte al nivell superficial un conjunt de fosses simples amb 
-inhumacions. Els detalls de localització, dimensions i continguts apareix a  ## l’annex.
+inhumacions. Els detalls de localització, dimensions i continguts apareix als fitxers.
 
 ### Objectiu
 
@@ -108,11 +108,25 @@ culturals i socials que podeu descobrir.
 
 ## Material disponible en aquest repositori
 
-- Base de dades (...)
-- Base de dades (...)
+_Informació sobre les tombes:_
+- Fosses_ubicacio
+- tomba_aixovar
+- tomba_cronologia
+- tomba_individus
+- fosses_ubicacio_SantaAmnesta
+- tomba_aixovar_SantaAmnesta
+- tomba_cronologia_SantaAmnesta
+- tomba_individus_SantaAmnesta
+
+_Informació sobre les ceràmiques:_ 
+- tomba_ceramica_SantaAmnesta
+- ceramica_decoracio_SantaAmnesta
+- ceramica_morfologia_SantaAmnesta
+- Ceramica_decoracio
+- ceramica_descripcio
 
 ## Suport
 Contact olga.palacios@uab.cat 
 
 ## License
-Distributed under the GNU-GPL License. See LICENSE.txt for more information.
+_Distributed under the GNU-GPL License. See LICENSE.txt for more information._
