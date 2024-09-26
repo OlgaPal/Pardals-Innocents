@@ -113,15 +113,8 @@ _Informació sobre les tombes:_
 - tomba_aixovar
 - tomba_cronologia
 - tomba_individus
-- fosses_ubicacio_SantaAmnesta
-- tomba_aixovar_SantaAmnesta
-- tomba_cronologia_SantaAmnesta
-- tomba_individus_SantaAmnesta
 
 _Informació sobre les ceràmiques:_ 
-- tomba_ceramica_SantaAmnesta
-- ceramica_decoracio_SantaAmnesta
-- ceramica_morfologia_SantaAmnesta
 - Ceramica_decoracio
 - ceramica_descripcio
 
